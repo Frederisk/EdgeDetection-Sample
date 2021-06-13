@@ -1,1 +1,1 @@
-# EdgeDetectionSample
+# EdgeDetection-Sample
